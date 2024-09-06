@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\bin\Debug\FormularioDataGV.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\bin\Debug\FormularioDataGV.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\bin\Debug\FormularioDataGV.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.MainForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.login.resources
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\bin\Debug\FormularioDataGV.exe.config
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\bin\Debug\FormularioDataGV.exe
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\bin\Debug\FormularioDataGV.pdb
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.csprojResolveAssemblyReference.cache
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.login.resources
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.MainForm.resources
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.csproj.GenerateResource.Cache
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.exe
+F:\Programacion II\3er bimestres\FormularioDataGV\FormularioDataGV\obj\Debug\FormularioDataGV.pdb
